@@ -3,13 +3,15 @@ import ollama
 def ai_analysis(text):
 
     prompt = f"""
-    You are a QA expert.
+    You are a senior QA engineer.
 
-    Analyze this manual test plan:
-    - Identify unclear steps
-    - Missing edge cases
-    - Duplicate scenarios
-    - Suggest improvements
+    Analyze this structured test plan:
+    - Check scenario clarity
+    - Validate preconditions
+    - Review test steps
+    - Evaluate expected results
+    - Identify missing edge cases
+    - Suggest QA improvements
 
     Test Plan:
     {text}

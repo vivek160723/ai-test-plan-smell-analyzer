@@ -5,7 +5,7 @@ from analyzer.doc_reader import read_doc
 from analyzer.excel_reader import read_excel
 from analyzer.pdf_reader import read_pdf
 
-FILE_PATH = "sample_docs/sample_test_plan.pdf"   # <- change as needed
+FILE_PATH = "sample_docs/sample_test_plan.txt"   # <- change as needed
 
 
 # File type detect
