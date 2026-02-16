@@ -39,7 +39,7 @@ This tool helps QA teams:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-test-plan-smell-analyzer.git
+git clone https://github.com/vivek160723/ai-test-plan-smell-analyzer.git
 cd ai-test-plan-smell-analyzer
 2️⃣ Create virtual environment
 python -m venv venv
